@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331585979921",
+    "project_id": "ungdungfirebase18093421",
+    "storage_bucket": "ungdungfirebase18093421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331585979921:android:fdf7d4922ea298ddf293b0",
+        "android_client_info": {
+          "package_name": "com.example.ungdungfire18093421levantai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331585979921-6i73qvc9h47clnesdhei7l2m8q13l1tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0Ell5zpVstiN8dnTJGEGhHYI_qcb5ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331585979921-6i73qvc9h47clnesdhei7l2m8q13l1tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
